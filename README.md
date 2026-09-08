@@ -232,3 +232,6 @@ This repository serves as the official landing page for True Fear: Forsaken Soul
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of True Fear: Forsaken Souls today!**
+
+---
+**Last updated:** 2026-09-08 17:38:31 UTC
