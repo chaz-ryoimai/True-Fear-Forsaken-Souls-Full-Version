@@ -234,4 +234,4 @@ This repository serves as the official landing page for True Fear: Forsaken Soul
 **Get the most recent version of True Fear: Forsaken Souls today!**
 
 ---
-**Last updated:** 2026-09-19 23:44:39 UTC
+**Last updated:** 2026-09-20 02:08:35 UTC
